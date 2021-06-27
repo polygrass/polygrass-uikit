@@ -118,13 +118,19 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     href: "https://t.me/joinchat/q5EpeKnd8ZczZmFh",
-    items: [],
+    items: [{
+      label: 'Telegram',
+      href: "https://t.me/joinchat/q5EpeKnd8ZczZmFh"
+    }],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
     href: "https://twitter.com/polygrassdefi/",
-    items: [],
+    items: [{
+      label: 'Twitter',
+      href: "https://twitter.com/polygrassdefi/"
+    }],
   },
 ];
 
