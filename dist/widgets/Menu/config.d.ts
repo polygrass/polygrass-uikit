@@ -27,6 +27,7 @@ export declare const socials: {
     label: string;
     icon: string;
     href: string;
+    items: never[];
 }[];
 export declare const MENU_HEIGHT = 64;
 export declare const MENU_ENTRY_HEIGHT = 48;
