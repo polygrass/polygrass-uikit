@@ -117,13 +117,13 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/polycubanfinancetelegram",
+    href: "https://t.me/joinchat/q5EpeKnd8ZczZmFh",
     items: [],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PolyCubanF",
+    href: "https://twitter.com/polygrassdefi/",
     items: [],
   },
 ];
