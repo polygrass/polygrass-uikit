@@ -117,10 +117,10 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/joinchat/q5EpeKnd8ZczZmFh",
+    href: "https://t.me/polygrass",
     items: [{
       label: 'Telegram',
-      href: "https://t.me/joinchat/q5EpeKnd8ZczZmFh"
+      href: "https://t.me/polygrass"
     }],
   },
   {
